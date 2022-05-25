@@ -2,10 +2,6 @@ img = "";
 objects = [];
 status = "";
 
-function preload(){
-  img = loadImage('dog_cat.jpg');
-}
-
 
 function setup() {
   canvas = createCanvas(380, 380);
